@@ -3,6 +3,7 @@ from core.assistant import Assistant
 from interfaces.gui import GysinIAGUI
 from utils.logger import setup_logger
 from interfaces.gui import GysinIAGUI
+from interfaces.gui import GysinIAGUI
 
 def main():
     logger = setup_logger()
